@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hey 👋, I'm Mamadou Coulibaly !
+<a href='https://www.linkedin.com/in/mamadou-coulibaly-082a8986/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/codebox0/codebox0/main/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/hamedcodebox'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/codebox0/codebox0/main/assets/twitter.svg" height='18px'/></a>
 
 <!--
 **codebox0/codebox0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
