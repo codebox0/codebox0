@@ -85,10 +85,10 @@ _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebox0" alt="codebox0" /></a> </p>
 
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebox0&show_icons=true&locale=en&layout=compact" alt="codebox0" /></p>
 
-
+<!--
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codebox0&" alt="codebox0" /></p>
 
 <!--
