@@ -6,13 +6,15 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on my Dreams.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Codebox0">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, Node, Angular, Mern & Mean , and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.mamadoucoulibaly.com">resume</a>.</li>
-</ul>
+
+- 🔭 I’m currently working on on my Dreams
+- 🌱 I’m currently learning <strong>Flutter, Python, Cypress, Unity , Docker  and cloud stuff</strong>
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/Codebox0">Github</a>
+- 📙 Check out my <a href="https://www.mamadoucoulibaly.com">resume</a>
+- 💬 Ask me about <strong>Tech, Dreams & innovation</strong>...
+- 📫 How to reach me: <a href="https://www.mamadoucoulibaly.com">Portfolio</a>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Big dreamer
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -46,13 +48,11 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 
-
 <h3 align="left">Hybrid & Game:</h3>
 
 ![Illustrator](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
-
 
 <h4 align="left">Graph :</h4>
 
@@ -97,17 +97,5 @@ _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 <!--
 **codebox0/codebox0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
