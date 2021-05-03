@@ -23,52 +23,45 @@
 <h3 align="left">Languages:</h3>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![Html5](https://img.shields.io/badge/-Html5-000?&logo=Html5)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-<h3 align="left">Web & Design:</h3>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) _**Languages**_
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-
-
-<h3 align="left">Js & Framework:</h3>
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass) _**Web & Design**_
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
 ![NodeJs](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![GastbyJs](https://img.shields.io/badge/-Graphql-000?&logo=Graphql&logoColor=purple)
 ![NextJs](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=888)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack) _**JS Framework**_
 
 <h3 align="left">Hybrid & Game:</h3>
 
 ![Illustrator](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+_**Hybrid & Games**_
 
 <h4 align="left">Graph :</h4>
 
 ![D3JS](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
 ![ChartJs](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+_**Graph**_
 
 <h3 align="righ"> Backend & Database :</h3>
-
-<h4 align="left"> Database :</h4>
 
 ![MongoDb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![MySql](https://img.shields.io/badge/-Mysql-000?&logo=Mysql)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-
-
-<h4 align="left">Server :</h4>
+_**Database**_
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
@@ -76,6 +69,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+_**Server**_
 
 <h4 align="left">Soft Skills :</h4>
 
@@ -88,6 +82,12 @@
 
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebox0&label=Profile%20views&color=0e75b6&style=flat" alt="codebox0" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebox0" alt="codebox0" /></a> </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebox0&show_icons=true&locale=en&layout=compact" alt="codebox0" /></p>
