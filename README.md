@@ -43,14 +43,10 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack) _**JS Framework**_
 
-<h3 align="left">Hybrid & Game:</h3>
-
 ![Illustrator](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 _**Hybrid & Games**_
-
-<h4 align="left">Graph :</h4>
 
 ![D3JS](https://img.shields.io/badge/-D3.js-000?&logo=D3.js)
 ![ChartJs](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
