@@ -7,7 +7,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li>🔭 I’m currently working on my Dreams.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Codebox0">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, Node, Angular, Mern & Mean , and cloud stuff</strong>.</li>
@@ -92,7 +92,6 @@ _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebox0&show_icons=true&locale=en&layout=compact" alt="codebox0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebox0&show_icons=true&locale=en" alt="codebox0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebox0&" alt="codebox0" /></p>
 
