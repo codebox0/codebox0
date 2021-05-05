@@ -82,6 +82,7 @@ _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebox0&label=Profile%20views&color=0e75b6&style=flat" alt="codebox0" /> </p>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebox0" alt="codebox0" /></a> </p>
 
 
