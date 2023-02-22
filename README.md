@@ -8,7 +8,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently working on on my Dreams
-- 🌱 I’m currently learning <strong>Flutter, Python, Cypress, Unity , Docker  and cloud stuff</strong>
+- 🌱 I’m currently in lab for <strong>Flutter, Cypress, Unity , Docker  and cloud stuff</strong>
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/Codebox0">Github</a>
 - 📙 Check out my <a href="https://www.mamadoucoulibaly.com">resume</a>
 - 💬 Ask me about <strong>Tech, Dreams & innovation</strong>...
