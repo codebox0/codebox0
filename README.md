@@ -40,8 +40,7 @@
 ![GastbyJs](https://img.shields.io/badge/-Graphql-000?&logo=Graphql&logoColor=purple)
 ![NextJs](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=888)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack) _**JS Framework**_
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest) _**JS Framework**_
 
 ![Illustrator](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
@@ -63,7 +62,6 @@ _**Database**_
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 _**Server**_
 
@@ -71,7 +69,6 @@ _**Server**_
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Adobe](https://img.shields.io/badge/-Adobe-000?&logo=Adobe&logoColor=red)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
