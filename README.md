@@ -22,12 +22,10 @@
 
 <h3 align="left">Languages:</h3>
 
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-
-
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
-![NodeJs](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) _**Languages**_
+![NodeJs](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) _**Languages**_
 
 ![NextJs](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -64,9 +62,6 @@ _**Graph**_
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 _**Server**_
 
-<h4 align="left">Soft Skills :</h4>
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
