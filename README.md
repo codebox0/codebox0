@@ -12,7 +12,7 @@
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/Codebox0">Github</a>
 - 📙 Check out my <a href="https://www.mamadoucoulibaly.com">resume</a>
 - 💬 Ask me about <strong>Tech, Dreams & innovation</strong>...
-- 📫 How to reach me: <a href="https://www.mamadoucoulibaly.com">Portfolio</a>
+- 📫 How to reach me: <a href="https://www.coulibalymamadou.com">Portfolio</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Big dreamer
 
